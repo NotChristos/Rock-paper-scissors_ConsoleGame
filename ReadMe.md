@@ -1,6 +1,6 @@
 
 #### Консольная игра по мотивам кровопролитной жестокой детской игры "Камень-ножницы-бумага" :crossed_swords:
-![This is an image](\Rock-paper-scissors\src\main\resources\rock-paper-scissors.png)
+![This is an image](/src/main/resources/rock-paper-scissors.png)
 
 Пользователю предлагается выбрать один из предложенных программой вариантов оружия в игре. После чего оружие выбирает программа. 
 
